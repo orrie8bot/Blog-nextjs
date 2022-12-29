@@ -1,7 +1,7 @@
 {
   "name": "blog-nextjs",
   "version": "0.1.0",
-  "homepage": "https://orrie8bot/github.io/blog-nextjs",
+  "homepage": "https://orrie8bot/github.io/Blog-nextjs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
